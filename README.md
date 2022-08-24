@@ -8,6 +8,6 @@
 
 ![image](https://user-images.githubusercontent.com/92089364/186505892-d9f82102-bb21-4f8a-8971-5a5e25e6d59c.png)
 
-Kaggle link : [https://www.kaggle.com/competitions/titanic/overview]
+[Kaggle Link](https://www.kaggle.com/competitions/titanic/overview)
 
 My Kaggle Profile: [https://www.kaggle.com/abhishek1dg]
