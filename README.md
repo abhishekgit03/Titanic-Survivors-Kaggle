@@ -10,4 +10,4 @@
 
 [Kaggle Link](https://www.kaggle.com/competitions/titanic/overview)
 
-My Kaggle Profile: [https://www.kaggle.com/abhishek1dg]
+[My Kaggle Profile](https://www.kaggle.com/abhishek1dg)
